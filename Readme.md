@@ -7,8 +7,7 @@ stopwatch developed using html,css as front end development and javascript as be
 ******
 
 ## SCREENSHOTS
-- link 1
-- link 2
+![gilly](https://user-images.githubusercontent.com/117977171/210310378-686f9971-5501-4dd2-a4ee-453d0daa8859.jpg)
 
 
 ********
