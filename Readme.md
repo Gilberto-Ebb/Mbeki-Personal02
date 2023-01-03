@@ -13,10 +13,11 @@ stopwatch developed using html,css as front end development and javascript as be
 ********
 ## SetUp Instruction
 ### Requirements
-* [Lang](lang Url)
-* [Framework](Framework URL)
+* [HTML](https://www.w3schools.com/html/)
+* [CSS](https://www.w3schools.com/css/)
+* [Framework](https://www.w3schools.com/js)
 * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
-* [Testing Platform](Platform URL)
+
 
 
 ### Getting Files
@@ -37,15 +38,8 @@ To install all requirements
 > $ python3 manage.py runserver
 Then run server with the above command
 *****
-## Live Link
-Or you can access the web application directly via this [LINK.](link.com/)
-*****
-## Dependencies
-- Package Name
-- Package Name
-- Package Name
-- Package Name
-*****
+
+
 ## Technologies Used
 1. HTML
 2. MdBootstrap
@@ -54,7 +48,7 @@ Or you can access the web application directly via this [LINK.](link.com/)
 5. JavaScript
 *****
 ## Contact Information
-* Email : example@gmail.com
+* Email : Thabogilly@gmail.com
 *****
 ## [License](LICENSE)
 MIT License
